@@ -44,6 +44,12 @@ const nextConfig = {
         port: "5000",
         pathname: "/**",
       },
+      {
+        protocol: "https",
+        hostname: "chatapp-udjd.onrender.com",
+        port: "",
+        pathname: "/**",
+      },
     ],
   },
 };
